@@ -18,3 +18,4 @@ You can find this specialization at https://www.coursera.org/specializations/aml
 
 
 # DO NOT FORK THIS REPOSITORY
+XGBoost and Naive Bayes is also the advance ML alogrithm to learn while going throught ML course. 
